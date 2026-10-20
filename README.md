@@ -7,7 +7,7 @@ Hands-on workshop to practice Git workflows (branches, commits, pull requests) a
 
 ---
 
-## 🚀 Team Assignments
+##  Team Assignments
 
 * **Team 1 (Contract):** Create `Operation.java` interface.
   * Branch: `feature/operation-contract`
@@ -20,7 +20,7 @@ Hands-on workshop to practice Git workflows (branches, commits, pull requests) a
 
 ---
 
-## 📌 Workflow Steps
+##  Workflow Steps
 
 1. Create and switch to your team branch:
    ```bash
